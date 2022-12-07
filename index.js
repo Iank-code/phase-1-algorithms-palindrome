@@ -35,6 +35,9 @@ reverse the input string
 
 /*
   Add written explanation of your solution here
+
+  first: I will split the word and reverse it, saving it in a variable called reverseWordArr
+  second: I will join reverseWordArr and save it in a variable called reversedWord
 */
 
 // You can run `node index.js` to view these console logs
